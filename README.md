@@ -1,2 +1,2 @@
 # 2020xxxx	 Yun youngkwang
-# kookmin UNI.SW
+# kookmin UNI.SW science

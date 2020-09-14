@@ -20,5 +20,5 @@ void loop() {
 }
 
 int toggle_state(int toggle) {
-  return PIN_LED;
+  return not toggle;
 }
